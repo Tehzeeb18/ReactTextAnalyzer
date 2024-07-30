@@ -10,3 +10,11 @@ This is a simple text analyzer application built with Vite and React. The applic
 - Word Count: Display the number of words in the text.
 - Character Count: Display the number of characters in the text.
 - Text Preview: Preview the modified text.
+
+# File Structure
+The main code for the text analyzer is located in src/components/TextAnalyzer.jsx.
+
+# Usage
+Enter your text: Type or paste the text you want to analyze into the textbox.
+Choose an action: Click on the buttons to convert the text to uppercase, lowercase, clear the text, or remove extra spaces.
+View results: The word and character counts are displayed, and you can preview the modified text.
